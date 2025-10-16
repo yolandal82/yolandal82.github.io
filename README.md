@@ -1,15 +1,16 @@
 # My GitHub Website
 
-Welcome to my personal website!
+Welcome to my personal website :)
 
 ---
 
 ## About Me
 Hi there! I'm Yolanda, an engineering student who enjoys building things.
 
-- I am currently attending The University of British Columbia for engineering
-- I love working with Python, C, and solidworks  
-- I create open-source projects and share them here on GitHub  
+- I am currently attending the University of British Columbia for engineering
+- I like working with python, c, and solidworks/onshape
+- In the progress of learning altium and arduino
+
 
 ---
 
@@ -19,7 +20,7 @@ Hi there! I'm Yolanda, an engineering student who enjoys building things.
 <a href="legoman.stl">
   <img src="https://img.icons8.com/?size=100&id=13628&format=png&color=000000"
        alt="STL Icon" width="20" style="vertical-align:middle;">
-</a> - A small LEGO keychain I made for my APSC class
+</a> - A small LEGO figurine I made for my APSC class 
 
 ## Reach me here!
 <p align="left">
