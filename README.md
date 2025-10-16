@@ -13,12 +13,13 @@ Hi there! I'm Yolanda, a developer who enjoys building things.
 - I create open-source projects and share them here on GitHub  
 - Reach me at: [yolandal.li07@gmail.com](mailto:yolandal.li07@gmail.com)
 
-<div class="social-icons">
-  <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i></a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><i class="fab fa-linkedin"></i></a>
-  <a href="https://instagram.com/yourusername" target="_blank"><i class="fab fa-instagram"></i></a>
-  <a href="mailto:youremail@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
-</div>
+
+<p align="center">
+  <a href="https://github.com/yolandal07"><img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/yolanda-li"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/yolanda.li"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/></a>
+  <a href="mailto:yolandal.li07@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/></a>
+</p>
 ---
 
 _© 2025 Yolanda Li — Powered by [GitHub Pages](https://pages.github.com)_
