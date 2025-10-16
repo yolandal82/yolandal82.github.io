@@ -14,9 +14,9 @@ Hi there! I'm Yolanda, a developer who enjoys building things.
 - Reach me at: [yolandal.li07@gmail.com](mailto:yolandal.li07@gmail.com)
 
 
-<p align="center">
-  <a href="https://github.com/yolandal07"><img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/yolanda-li"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/></a>
+<p align="left">
+  <a href="https://github.com/yolandal82"><img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/yolanda-li-b215a72b5/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/></a>
   <a href="https://instagram.com/yolanda.li"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/></a>
   <a href="mailto:yolandal.li07@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/></a>
 </p>
