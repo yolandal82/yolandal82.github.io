@@ -2,14 +2,14 @@
 
 Welcome to my personal website — built and hosted with **GitHub Pages**!
 
-👉 **Live site:** [https://yolandal82.github.io](https://yolandal82.github.io)
+ **Live site:** [https://yolandal82.github.io](https://yolandal82.github.io)
 
 ---
 
 ## About Me
-Hi there! I'm Yolanda, a developer who enjoys building things.
+Hi there! I'm Yolanda, an engineering student who enjoys building things.
 
-- Currently attending The University of British Columbia for engineering
+- I am currently attending The University of British Columbia for engineering
 - I love working with Python, C, and solidworks  
 - I create open-source projects and share them here on GitHub  
   
