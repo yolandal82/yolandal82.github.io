@@ -19,7 +19,7 @@ Hi there! I'm Yolanda, an engineering student who enjoys building things.
 <a href="legoman.stl">
   <img src="https://img.icons8.com/?size=100&id=13628&format=png&color=000000"
        alt="STL Icon" width="20" style="vertical-align:middle;">
-</a> A small LEGO keychain I made for my APSC class
+</a> - A small LEGO keychain I made for my APSC class
 
 ## Reach me here!
 <p align="left">
