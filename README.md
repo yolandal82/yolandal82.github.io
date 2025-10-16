@@ -16,7 +16,7 @@ Hi there! I'm Yolanda, an engineering student who enjoys building things.
 ## Current projects!
 (Currently working on more projects so stay tuned..)
 
-[Download 3D Model (.stl)](legoman.stl)
+[![3D Model](https://img.icons8.com/?size=100&id=13628&format=png&color=000000)](legoman.stl) - A small lego keychain I made for my APSC class
 
 ## Reach me here!
 <p align="left">
