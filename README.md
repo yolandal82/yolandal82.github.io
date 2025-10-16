@@ -1,9 +1,33 @@
-# yolandal82.github.io
+# 🌐 My GitHub Website
 
-# Welcome to the best wesite ever :3 
-_I be fancy like that_
+Welcome to my personal website — built and hosted with **GitHub Pages**!
 
-This is not a quote
-> This is a quote
+👉 **Live site:** [https://yolandal82.github.io](https://yolandal82.github.io)
 
-This is my linkedin: [Link Text](#www.linkedin.com/in/yolanda-li-b215a72b5)
+---
+
+## 🧭 About Me
+Hi there! I'm Yolanda, a developer who enjoys building things.
+
+- I love working with Python, C, and solidworks  
+- I create open-source projects and share them here on GitHub  
+- Reach me at: [yolandal.li07@gmail.com](mailto:yolandal.li07@gmail.com)
+
+---
+
+## 🛠 Projects
+- [Project One](https://github.com/yourusername/project1)
+- [Project Two](https://github.com/yourusername/project2)
+
+---
+
+## 📸 Preview
+Here’s a preview of my homepage:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername.github.io/main/screenshot.png" width="600" alt="Website Preview">
+</p>
+
+---
+
+_© 2025 Yolanda Li — Powered by [GitHub Pages](https://pages.github.com)_
