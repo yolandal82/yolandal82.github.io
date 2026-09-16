@@ -21,13 +21,15 @@ Hi there! I'm Yolanda, a second year Engineering Physics student who enjoys buil
   <br>
   <em>Performed well in design competition, placing first in one of the individual rounds</em>
 </p>
+<br>
 
 ### Arcade Robot
 <p align="center">
-  <img src="Arcade game robot (Super cool!!!).HEIC" width="400" alt="Description of image">
+  <img src="robot.png" width="400" alt="Description of image">
   <br>
   <em>Super cool robot I taught my students to make</em>
 </p>
+<br>
 
 ### Various CAD Models
 <p align="center">
@@ -36,6 +38,7 @@ Hi there! I'm Yolanda, a second year Engineering Physics student who enjoys buil
   <br>
   <em>Recent adventures</em>
 </p>
+<br>
 
 ### Various 3D Prints
 <p align="center">
