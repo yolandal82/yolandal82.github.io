@@ -5,22 +5,45 @@ Welcome to my personal website :)
 ---
 
 ## About Me
-Hi there! I'm Yolanda, an engineering student who enjoys building things.
+Hi there! I'm Yolanda, a second year Engineering Physics student who enjoys building things!
 
-- I am currently attending the University of British Columbia for engineering
-- I like working with python, c, and solidworks/onshape
-- In the progress of learning altium and arduino
+- I am currently attending the University of British Columbia for Engineering Physics
+- I like working with SolidWorks and OnShape
+- I know how to use Java, C, and Python
 
 
 ---
 
-## Current projects!
-(Currently working on more projects so stay tuned..)
+## Projects!
+### Autonomous Claw
+<p align="center">
+  <img src="your-image-filename.png" width="400" alt="Description of image">
+  <br>
+  <em>Performed well in design competition, placing first in one of the individual rounds</em>
+</p>
 
-<a href="legoman.stl">
-  <img src="https://img.icons8.com/?size=100&id=13628&format=png&color=000000"
-       alt="STL Icon" width="20" style="vertical-align:middle;">
-</a> - A small LEGO figurine I made for my APSC class 
+### Arcade Robot
+<p align="center">
+  <img src="your-image-filename.png" width="400" alt="Description of image">
+  <br>
+  <em>Super cool robot I taught my students to make</em>
+</p>
+
+### Various CAD Models
+<p align="center">
+  <img src="your-first-image.png" width="45%" alt="First image"> &nbsp;
+  <img src="your-second-image.png" width="45%" alt="Second image">
+  <br>
+  <em>Caption for the whole row or side-by-side comparison</em>
+</p>
+
+### Various 3D Prints
+<p align="center">
+  <img src="your-first-image.png" width="45%" alt="First image"> &nbsp;
+  <img src="your-second-image.png" width="45%" alt="Second image">
+  <br>
+  <em>Caption for the whole row or side-by-side comparison</em>
+</p>
 
 ## Reach me here!
 <p align="left">
