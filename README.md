@@ -17,32 +17,37 @@ Hi there! I'm Yolanda, a second year Engineering Physics student who enjoys buil
 ## Projects!
 ### Autonomous Claw
 <p align="center">
-  <img src="your-image-filename.png" width="400" alt="Description of image">
+  <img src="Claw.png" width="400" alt="Description of image">
   <br>
   <em>Performed well in design competition, placing first in one of the individual rounds</em>
 </p>
 
 ### Arcade Robot
 <p align="center">
-  <img src="your-image-filename.png" width="400" alt="Description of image">
+  <img src="Arcade game robot (Super cool!!!).HEIC" width="400" alt="Description of image">
   <br>
   <em>Super cool robot I taught my students to make</em>
 </p>
 
 ### Various CAD Models
 <p align="center">
-  <img src="your-first-image.png" width="45%" alt="First image"> &nbsp;
-  <img src="your-second-image.png" width="45%" alt="Second image">
+  <img src="button.png" width="45%" alt="First image"> &nbsp;
+  <img src="lego.png" width="45%" alt="Second image">
   <br>
-  <em>Caption for the whole row or side-by-side comparison</em>
+  <em>Recent adventures</em>
 </p>
 
 ### Various 3D Prints
 <p align="center">
-  <img src="your-first-image.png" width="45%" alt="First image"> &nbsp;
-  <img src="your-second-image.png" width="45%" alt="Second image">
+  <img src="IMG_3135.jpeg" width="22%" alt="Print 1"> &nbsp;
+  <img src="IMG_3136.jpeg" width="22%" alt="Print 2"> &nbsp;
+  <img src="IMG_3137.jpeg" width="22%" alt="Print 3">
   <br>
-  <em>Caption for the whole row or side-by-side comparison</em>
+  <img src="IMG_3139.jpeg" width="22%" alt="Print 4"> &nbsp;
+  <img src="IMG_3140.jpeg" width="22%" alt="Print 5"> &nbsp;
+  <img src="IMG_3141.jpeg" width="22%" alt="Print 6">
+  <br>
+  <em>Miscellaneous things I printed for my room</em>
 </p>
 
 ## Reach me here!
