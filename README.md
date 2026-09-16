@@ -10,6 +10,7 @@ Hi there! I'm Yolanda, a second year Engineering Physics student who enjoys buil
 - I am currently attending the University of British Columbia for Engineering Physics
 - I like working with SolidWorks and OnShape
 - I know how to use Java, C, and Python
+- In my free time, I love building Legos and Gundams 
 
 
 ---
@@ -20,6 +21,14 @@ Hi there! I'm Yolanda, a second year Engineering Physics student who enjoys buil
   <img src="Claw.png" width="400" alt="Description of image">
   <br>
   <em>Performed well in design competition, placing first in one of the individual rounds</em>
+</p>
+<br>
+
+### ThundeBikes Elec Team
+<p align="center">
+  <img src="elec.png" width="400" alt="Description of image">
+  <br>
+  <em>Charger team schematic design</em>
 </p>
 <br>
 
